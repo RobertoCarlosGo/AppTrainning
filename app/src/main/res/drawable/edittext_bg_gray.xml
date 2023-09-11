@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- edittext_bg_gray.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="#CCCCCC"
+            android:textColor="#000000"/> <!-- Color de fondo gris -->
+        <corners android:radius="4dp" /> <!-- Opcional: Bordes redondeados -->
+
+    </shape>
+
+</selector>
